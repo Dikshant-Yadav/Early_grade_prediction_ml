@@ -1,5 +1,10 @@
 # Early_grade_prediction_ml
+
+
 Early Grade Prediction 🎓📊
+
+
+
 Overview
 This project focuses on predicting students' final grades early in the academic term using machine learning models. By leveraging continuous assessment data and other academic factors, the goal is to identify at-risk students early and provide timely interventions.
 
